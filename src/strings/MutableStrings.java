@@ -28,7 +28,5 @@ public class MutableStrings {
         
         System.out.println(s5.isEmpty());
         System.out.println(s5.isBlank());
-        
-        s5.toLo
     }
 }
